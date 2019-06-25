@@ -1,2 +1,2 @@
 language: csharp
-solution: HalilSahinPixelApp.sln
+solution: ./HalilSahinPixelApp/HalilSahinPixelApp.sln
